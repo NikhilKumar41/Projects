@@ -1,4 +1,4 @@
-# Software-Based 3D DNA Helix Renderer
+# Software-Based 3D DNA Helix Renderer [Inspired by yt- @Tsoding]
 
 This project is a lightweight 3D wireframe renderer built from scratch using JavaScript and HTML5 Canvas.
 
