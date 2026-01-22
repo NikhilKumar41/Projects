@@ -1,4 +1,4 @@
-# Software-Basic 3D Renderering Engine [Inspired by yt- @Tsoding]
+# Basic 3D Renderering Engine [Inspired by yt- @Tsoding]
 
 This project is a lightweight 3D wireframe renderer built from scratch using JavaScript and HTML5 Canvas.
 
