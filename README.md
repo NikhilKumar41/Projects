@@ -1,4 +1,4 @@
-# Software-Based 3D DNA Helix Renderer [Inspired by yt- @Tsoding]
+# Software-Basic 3D Renderering Engine [Inspired by yt- @Tsoding]
 
 This project is a lightweight 3D wireframe renderer built from scratch using JavaScript and HTML5 Canvas.
 
@@ -19,3 +19,7 @@ The rendered model is a rotating DNA double-helix constructed entirely from 3D c
 
 ## Purpose
 This project was created to understand and implement the fundamentals of 3D graphics rendering at a low level.
+
+
+https://github.com/user-attachments/assets/a8a41974-4b9b-4df7-976d-62f2c1225924
+
